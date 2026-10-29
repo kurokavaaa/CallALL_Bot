@@ -8,7 +8,8 @@
 
 ## 2. Запусти
 ```bash
-cd callall
+git clone https://github.com/kurokavaaa/CallALL_Bot.git
+cd CallALL_Bot
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
