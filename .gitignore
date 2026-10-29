@@ -1,0 +1,12 @@
+# секреты — никогда не коммитить
+.env
+SECRETS.txt
+# база с участниками чатов
+*.db
+*.db-journal
+# окружение и кэш
+venv/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
